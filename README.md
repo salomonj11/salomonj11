@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Java & C#**
 
 - 👨‍💻 All of my projects are available at [https://salomonjesus.com/](https://salomonjesus.com/)
+  - 💼 Check out my [Portfolio](https://github.com/salomonj11/Portfolio) project on GitHub
+  - 🛋️ Take a look at my [Not-Ikea](https://github.com/salomonj11/Not-Ikea) project on GitHub
 
 - 📄 Check out my [Resume](https://salomonjesus.com/JesusSalomonResume.pdf) to learn more about my experiences.
 
