@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gunpla Library**
 
-- 🌱 I’m currently learning **Java & C#**
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25"/> Java & <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="25"/> C#.
 
 - 👨‍💻 All of my projects are available at [https://salomonjesus.com/](https://salomonjesus.com/)
 
