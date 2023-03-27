@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://salomonjesus.com/JesusSalomonResume.pdf](https://salomonjesus.com/JesusSalomonResume.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
