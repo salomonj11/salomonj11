@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salomonjesus.com/](https://salomonjesus.com/)
 
-- 📄 Know about my experiences [https://salomonjesus.com/JesusSalomonResume.pdf](https://salomonjesus.com/JesusSalomonResume.pdf)
+- 📄 Check out my [Resume](https://salomonjesus.com/JesusSalomonResume.pdf) to learn more about my experiences.
 
 <h2 align="left">📫 Get In Touch</h1>
 
