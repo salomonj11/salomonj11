@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://salomonjesus.com/](https://salomonjesus.com/)
 
-- 📫 How to reach me: **salomonj1121@gmail.com**
+- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonj1121@gmail.com)
 
 - 📄 Know about my experiences [https://salomonjesus.com/JesusSalomonResume.pdf](https://salomonjesus.com/JesusSalomonResume.pdf)
 
