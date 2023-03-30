@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Salomon</h1>
-<h3 align="center">An avid Software Engineer committed to building impactful and user-friendly software</h3>
+<h4 align="center">An avid Software Engineer committed to building impactful and user-friendly software</h4>
 
 - 🔭 I’m currently working on [**Gunpla Library**](https://github.com/salomonj11/gunpla-library)
 
